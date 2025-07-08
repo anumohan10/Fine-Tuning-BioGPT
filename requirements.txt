@@ -1,0 +1,13 @@
+transformers==4.40.1
+datasets==2.19.0
+peft==0.10.0
+accelerate==0.29.3
+scikit-learn==1.4.2
+torch==2.2.2
+evaluate==0.4.1
+sacremoses==0.1.1
+ray[tune]==2.21.0
+pandas==2.2.2
+matplotlib==3.8.4
+seaborn==0.13.2
+ipykernel
